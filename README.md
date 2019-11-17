@@ -22,10 +22,11 @@ outlet obeys Orlansky convective velocity condition. The top and the bottom
 of the domain is assumed to be free-slip.
 
 Results demonstrate(Results descriptiion.pdf):
-
--A non-dimensional form of the governing equations and a discussion on
+A non-dimensional form of the governing equations and a discussion on
 the non-dimensional parameter that appear.
-- Distribution of u and v velocity components as well as the
+
+Distribution of u and v velocity components as well as the
 streamlines at following time instants using default MATLAB plot
 settings: t = 0, 5, 10, 20, 40, 100 s .
-- Strouhal number related to the vortex shedding.
+
+Strouhal number related to the vortex shedding.
