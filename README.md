@@ -21,7 +21,7 @@ boundary condition is dictated by the constant approaching flow, while the
 outlet obeys Orlansky convective velocity condition. The top and the bottom
 of the domain is assumed to be free-slip.
 
-Results demonstrate(Results descriptiion.pdf):
+Results demonstrate(Results description.pdf):
 
 -A non-dimensional form of the governing equations and a discussion on
 the non-dimensional parameter that appear.
